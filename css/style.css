@@ -1,0 +1,20 @@
+button, select, #loginLink{
+	margin: 10px;
+}
+.head{
+	margin-bottom: 20px;
+	padding: 20px 0 20px 0;
+	border-radius: .25rem;
+	background-color: #343a40;
+	color: #fff;
+}
+.taskRow{
+	border-bottom: 2px solid #343a40;
+}
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
